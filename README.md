@@ -10,7 +10,7 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **mogohary99@gmail.com**
-- Reach me on WhatsApp **https://wa.me/+201099167958**
+- <img decoding="async" loading="lazy" width="26" height="25" class="wp-image-4951 lazyloaded" style="width: 26px;" alt="" src="https://www.mail-signatures.com/wp-content/uploads/2020/03/whatsapp_icon_01-1.png" data-ll-status="loaded">  Reach me on WhatsApp **https://wa.me/+201099167958**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
